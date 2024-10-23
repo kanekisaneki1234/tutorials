@@ -31,3 +31,15 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external drives
+.Spotlight-V100
+.Trashes
