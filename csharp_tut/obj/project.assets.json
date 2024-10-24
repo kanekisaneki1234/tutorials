@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owais/csharp_tut/csharp_tut.csproj",
+      "projectUniqueName": "/Users/owais/Github_Uploads/tutorials/csharp_tut/csharp_tut.csproj",
       "projectName": "csharp_tut",
-      "projectPath": "/Users/owais/csharp_tut/csharp_tut.csproj",
+      "projectPath": "/Users/owais/Github_Uploads/tutorials/csharp_tut/csharp_tut.csproj",
       "packagesPath": "/Users/owais/.nuget/packages/",
-      "outputPath": "/Users/owais/csharp_tut/obj/",
+      "outputPath": "/Users/owais/Github_Uploads/tutorials/csharp_tut/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/owais/.nuget/NuGet/NuGet.Config"
