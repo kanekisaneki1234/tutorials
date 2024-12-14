@@ -78,5 +78,17 @@ class LinkedList {
 };
 
 int main() {
+    LinkedList myList;
 
+    // Append some values to the list
+    myList.append(10);
+    myList.append(20);
+    myList.append(30);
+    myList.append(40);
+
+    // Display the linked list
+    cout << "The linked list is: ";
+    myList.Display();
+    
+    return 0;
 }
