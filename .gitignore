@@ -528,3 +528,7 @@ google-services.json
 # Files that might appear on external drives
 .Spotlight-V100
 .Trashes
+
+# Ignore YAML files
+*.yaml
+*.yml
